@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1019901204278",
+    "project_id": "papb-firebase-c3e2d",
+    "storage_bucket": "papb-firebase-c3e2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019901204278:android:4f3361ac8a2ef73f5bc597",
+        "android_client_info": {
+          "package_name": "com.papb.praktikum2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYvEUTptPkB3xOjJlyS2NjS7Dtm_QCF1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
